@@ -1,0 +1,197 @@
+texto,emocao
+este trabalho é agradável,positivo
+gosto de ficar no seu aconchego,positivo
+fiz a adesão ao curso hoje,positivo
+eu sou admirada por muitos,positivo
+adoro como você,positivo
+adoro seu cabelo macio,positivo
+adoro a cor dos seus olhos,positivo
+somo tão amáveis um com o outro,positivo
+sinto uma grande afeição por ele,positivo
+quero agradar meus filhos,positivo
+me sinto completamente amado,positivo
+eu amo você,positivo
+que grande alívio,positivo
+a dor esta amenizando finalmente,positivo
+acho que me apaixonei,positivo
+amar é maravilhoso,positivo
+estou me sentindo muito animada,positivo
+me sinto muito bem hoje,positivo
+como o luar é belo,positivo
+o dia esta muito bonito,positivo
+nossa como sou afortunado,positivo
+as maravilhas do mundo,positivo
+recebi muito carinho hoje do meus colegas,positivo
+estou me sentindo reconfortada hoje,positivo
+é muito bom estar com os amigos,positivo
+estou muito contente com o resultado dos testes,positivo
+essa pintura esta bem brilhante,positivo
+temos água em abundância,positivo
+que roupa delicada,positivo
+você é um grande comediante,positivo
+que bondade a sua em vir aqui,positivo
+o amor é lindo,positivo
+nossa amizade vai durar para sempre,positivo
+estou eufórica com a notícia,positivo
+ele é realmente fiel a mim,positivo
+vou dar uma grande festa para comemorar meu aniversário,positivo
+graças a deus que eu enxerguei o certo,positivo
+essa é a melhor escolhas de todas,positivo
+o mais incrível é você minha bela,positivo
+é tão engraçado tentar explicar,positivo
+é emocionante estar neste lugar,positivo
+estou cativada pelo seu olhar,positivo
+estou loucamente apaixonada,positivo
+eu nunca tive dúvidas,positivo
+estou rodeada pelo seu abraço,positivo
+eu vejo estrelas pelo caminho,positivo
+eu sinto o sol sempre que você esta por perto,positivo
+eu estou sorrindo de orelha a orelha,positivo
+isso vale a pena,positivo
+finalmente você colocou meu amor em primeiro lugar,positivo
+nós dançamos noite adentro,positivo
+seu amor é brilhante,positivo
+toquei muitos corações durante o meu caminho,positivo
+eu serei sua amiga e companheira,positivo
+você me traz de volta a vida,positivo
+você e como um sonho doce,positivo
+adoro este doce de frutas,positivo
+meu suco favorito,positivo
+estou agradecida pela ajuda,positivo
+é um enorme prazer ter você em nossa equipe,positivo
+trabalhar em equipe é o melhor,positivo
+me sinto flutuando no ar,positivo
+a brisa esta agradável hoje,positivo
+ótimo e compatível,positivo
+somos compatíveis um com o outro,positivo
+o órgão é compatível com o paciente,positivo
+estou contente fui aceita na faculdade,positivo
+fui aprovada no meu exame,positivo
+fui beneficiada pela minha empresa,positivo
+eu sou muito cativante,positivo
+estou contente com o apoio,positivo
+como este lugar e confortável,positivo
+e bom estar quente neste frio,positivo
+um elogio nunca e demais,positivo
+vou te chamar para comemorar,positivo
+é desejável a sua presença em nossa apresentação,positivo
+sou muito grata a você,positivo
+me dedico muito naquilo que faço,positivo
+estou completamente apaixonada ,positivo
+vamos agitar essa noite,positivo
+você significa muito para mim,positivo
+vamos agir sem preconceitos e julgamentos,positivo
+finalmente completei a minha coleção maravilhoso,positivo
+eu sou sua rainha ,positivo
+satisfatoriamente eu anuncio o vencedor dos jogos,positivo
+você me atrai facilmente ,positivo
+aquele rapaz e extremamente atraente,positivo
+sinto-me viva ,positivo
+sinto-me em paz ,positivo
+estamos tendo muito lucro,positivo
+muito bem esta tudo em ordem agora ,positivo
+podemos arrumar um emprego juntos ,positivo
+a arrumação esta terminada que alívio,positivo
+o câncer é benigno ,positivo
+o amor é abundante,positivo
+vamos ser caridosos este natal,positivo
+com todo esse charme você irá atrair a todos,positivo
+nossa como você é charmoso querido ,positivo
+sou querida pelos meu amigos,positivo
+seja cuidadoso com os meus sentimentos,positivo
+estou comovido com tamanha caridade,positivo
+um chá quente e reconfortante,positivo
+que alegria ter vocês aqui ,positivo
+vamos aplaudir o vencedor ,positivo
+palmas para a aniversariante,positivo
+desejo a você tudo de bom,positivo
+hora de apreciar um bom vinho,positivo
+aprecio sua presença em minha escola,positivo
+anseio por seus próximos trabalhos,positivo
+maravilhoso jogo amistoso,positivo
+e ótimo que os menimos tenham se apaziguado,positivo
+concretizei finalmente meu sonho,positivo
+eu imploro não me matem!,negativo
+tem certeza que não é perigoso?,negativo
+não tenho certeza se é seguro,negativo
+tenho que correr pra não me pegarem,negativo
+socorro! ele queria roubar os meus doces!,negativo
+esse cara está me perseguindo,negativo
+não entro lá é um lugar muito perigoso,negativo
+este lugar continua assustador,negativo
+na selva tem muitos animais perigosos,negativo
+avancem com cautela,negativo
+este lugar está silencioso de mais cuidado!,negativo
+por favor deixe-me viver!,negativo
+vou ficar sem mesada se tirar nota baixa,negativo
+parece que tem olhos nos vigiando,negativo
+eu temo que a sentença do juiz possa ser negativa,negativo
+mas essa missão é arriscada,negativo
+salvem-se quem puder!,negativo
+meu plano pode ser descoberto,negativo
+não tive culpa juro não fui eu,negativo
+tenho que tomar cuidado com o lobisomem,negativo
+se eu não achar ele vai descobrir a verdade,negativo
+meu deus ele desapareceu!,negativo
+tomara que eles não me vejam daqui!,negativo
+mantenha isso em segredo se descobrirem estaremos ferrados,negativo
+por favor me soltem eu sou inocente,negativo
+estou ouvindo passos atrás de mim,negativo
+eu vou pedir socorro!,negativo
+cuidado com as curvas na estrada,negativo
+não sei não parece perigoso,negativo
+estou tremendo de medo!,negativo
+socorro eu vou cair!,negativo
+eu não vou até a floresta negra é muito perigoso,negativo
+ouço passos na minha direção,negativo
+acho que está arriscado de mais,negativo
+vamos voltar é muito perigoso,negativo
+fuja se não acabaremos mortos,negativo
+receio por não me livrar desta situação,negativo
+socorro! ele está armado!,negativo
+ei cuidado você vai bater no poste!,negativo
+socorro nós estamos afundando,negativo
+e sério cuidado com essa arma!,negativo
+os tubarões estão atacando!,negativo
+sinto arrepios quando fico sozinho no escuro,negativo
+calma eu não estou com o dinheiro,negativo
+eu acho que estou sendo enganado,negativo
+ligeiro temos que fugir depressa,negativo
+tem um crocodilo selvagem vindo para cá,negativo
+se ficarmos quietos eles não vão nos achar,negativo
+fuja! o tigre parece faminto,negativo
+estou sem saída preciso de um milagre,negativo
+tire isso de mim! socorro!,negativo
+não sei nadar vou me afogar!,negativo
+não tenho certeza se e seguro,negativo
+vou apanhar se meus pais verem meu boletim,negativo
+não consigo sair daqui!,negativo
+se sair tão tarde poderei ser assaltada,negativo
+não me deixe por favor!,negativo
+espere não pode me largar aqui sozinho,negativo
+temo pela sua segurança,negativo
+eu te entrego o dinheiro por favor não me mate!,negativo
+ele vai levar todo o meu dinheiro,negativo
+não dirija tão rápido assim,negativo
+me descobriram irão me prender!,negativo
+só espero que não me façam nenhum mal,negativo
+vou me afogar me ajudem a sair da água,negativo
+não estaremos a salvo aqui,negativo
+não quero nem pensar no que pode acontecer,negativo
+nessa cidade é uma desgraça atrás da outra,negativo
+alguém esta me ligando estou assustado,negativo
+isso não é remedio não me matem,negativo
+eu não confio nele tenho que ter cautela,negativo
+muita cautela,negativo
+vou ser descoberto meu deus,negativo
+receio que terei de ir,negativo
+a noite e muito perigosa,negativo
+estou estremecendo com essa casa,negativo
+olha aquela criatura se movendo monstruosamente,negativo
+não aguento este suspense,negativo
+afugente os cães,negativo
+estou chocado e amedrontado com este assassinato brutal,negativo
+é preciso afugenta com ímpeto este medo do inferno,negativo
+políticos usam suas forças para afugentar e amedrontar o povo,negativo
+o objetivo disso e apenas me amedrontar mais,negativo
+isso me apavora,negativo

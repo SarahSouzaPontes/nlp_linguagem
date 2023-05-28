@@ -1,0 +1,85 @@
+texto,emocao
+não precisei pagar o ingresso,positivo
+se eu ajeitar tudo fica bem,positivo
+minha fortuna ultrapassará a sua,positivo
+sou muito afortunado,positivo
+é benéfico para todos esta nova medida,positivo
+ficou lindo,positivo
+achei esse sapato muito simpático,positivo
+estou ansiosa pela sua chegada,positivo
+congratulações pelo seu aniversário,positivo
+delicadamente ele a colocou para dormir,positivo
+a música é linda,positivo
+sem música eu não vivo,positivo
+concluí uma tarefa muito difícil,positivo
+concluí minha graduação,positivo
+estou muito contente com tudo,positivo
+eu confio em você,positivo
+é um prazer conhecê-lo,positivo
+o coleguismo de vocês é animador,positivo
+estou aproveitando as férias,positivo
+vamos aproveitar as férias,positivo
+é muito divertido este jogo,positivo
+vamos ter muita diversão,positivo
+não achei que me divertiria tanto assim,positivo
+vou consentir o orçamento ao cliente,positivo
+com o consentimento dos meus pais podemos nos casar,positivo
+eu adorei este perfume,positivo
+sua bondade é cativante,positivo
+estou despreocupada,positivo
+não me preocupo com o que aconteceu,positivo
+me sinto completamente segura,positivo
+estimo muito o seu trabalho,positivo
+somos estimados por nossa família,positivo
+concretizamos nossa ideia,positivo
+nosso ideal foi alcançado,positivo
+estamos muito felizes juntos,positivo
+estou tão animada com os preparativos para o casamento,positivo
+você será muito amado meu filho,positivo
+os apaixonados sãoo maravilhosos,positivo
+agradeço imensamente o seu apoio nestes dias,positivo
+esta comida me parece muito atraente,positivo
+você me completa,positivo
+poderemos completar o projeto hoje!,positivo
+estamos namorando,positivo
+estou namorando este vestido a um tempo,positivo
+pude comprar meu celular hoje,positivo
+e um deleite poder compartilhar minhas vitórias,positivo
+ela é um boa garota,positivo
+estivemos em um útimo show,positivo
+que abominável esse monstro!,negativo
+vamos alarmar a todos sobre a situação,negativo
+estou amedrontada,negativo
+estou com muito medo da noite,negativo
+ele esta me ameaçando a dias,negativo
+quanta angústia,negativo
+estou angustiada,negativo
+angustiadamente vou sair de casa,negativo
+isso me deixa apavorada,negativo
+você esta me apavorando,negativo
+estou desconfiada de você,negativo
+não confio em você,negativo
+atá o cachorro está apavorado,negativo
+estou assustado com as atitudes do meu colega,negativo
+agora se sente humilhado apavorado,negativo
+assustou a população e provocou mortes,negativo
+estou com dificuldades para respirar e muito assustado,negativo
+os policiais se assustaram quando o carro capotou,negativo
+o trabalhador é assombrado pelo temor do desemprego,negativo
+este lugar é mal assombrado,negativo
+estou assombrado pela crise financeira,negativo
+mesmo aterrorizado lembro de você,negativo
+aterrorizado e suando frio,negativo
+um grupo de elefantes selvagens tem aterrorizado vilas,negativo
+me sinto intimidada pela sua presença,negativo
+tenho medo de ser advertida novamente,negativo
+estou correndo o risco de ser advertido,negativo
+estou correndo riscos,negativo
+os riscos são reais,negativo
+podemos perder muito dinheiro com essa investida,negativo
+socorro fui intimado a depor,negativo
+fui notificado e estou com medo de perder a guarda da minha filha,negativo
+estou angustiada com meus filhos na rua,negativo
+e abominável o que fazem com os animais,negativo
+foi terrível o tigre quase o matou,negativo
+me advertiram sobre isso,negativo
